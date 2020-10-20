@@ -1,3 +1,9 @@
+---
+title: Home
+layout: default
+---
+
+
 # Anna Rift
 [GitHub](https://github.com/riftEmber/)
 
