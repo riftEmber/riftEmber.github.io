@@ -3,13 +3,12 @@ title: Home
 layout: default
 ---
 
+# Currently under construction -- some components may be broken
 
-# Anna Rift
-[GitHub](https://github.com/riftEmber/)
+# Hi!
+I'm a computer science and mathematics undergraduate student, interested in
+all kinds of software development. Welcome to my personal site! Below are some
+of my external links you might find interesting.
 
-
-## Projects
-- [Codewords](https://github.com/riftEmber/cs354-fp): simple implementation of
-  the [Codenames](https://codenamesgame.com/) board game
-- **Unihub** (wip): free tool to help high school students plan for and apply
-  to academic programs and colleges
+- [GitHub page](https://github.com/riftEmber/)
+- [LinkedIn profile](https://www.linkedin.com/in/anna-rift-5783bb1b9/)
