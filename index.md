@@ -1,4 +1,4 @@
-# Anna V. Rift
+# Anna Rift
 [GitHub](https://github.com/riftEmber/)
 
 
