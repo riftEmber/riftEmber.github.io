@@ -4,9 +4,7 @@ layout: default
 ---
 
 
-# Currently under construction -- some components may be broken
-
-# Hi!
+## Hi!
 I'm a computer science and mathematics undergraduate student, interested in
 all kinds of software development. Welcome to my personal site! Below are some
 of my external links you might find interesting.
