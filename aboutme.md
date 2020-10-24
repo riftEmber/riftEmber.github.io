@@ -5,7 +5,14 @@ layout: default
 
 
 ## Bio
-placeholder
+I grew up in Ann Arbor, Michigan, moving to Idaho when I was 8 and to Boise at
+age 11. It's around that time I started my first programming project (an
+attempt at a Newgrounds clone), and I haven't stopped coding since. When I
+started at BSU in 2019, going into computer science was a no-brainer, and I
+added on mathematics before the end of my first semester. These days, most of
+my time is taken up by classes and programming for the ADaPT Lab. Outside of
+work and school, I spend my free time on various side projects and slowly
+learning the guitar.
 
 ## Education
 I'm an undergraduate at Boise State University, double majoring in computer
