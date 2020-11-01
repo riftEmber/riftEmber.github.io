@@ -5,13 +5,13 @@ pages:
   url: /
 
 - title: About Me
-  url: aboutme.html
+  url: aboutme
 
 - title: Projects
-  url: projects.html
+  url: projects
 
 - title: Resume
   url: assets/resources/resume.pdf
 
 - title: Contact
-  url: contact.html
+  url: contact
