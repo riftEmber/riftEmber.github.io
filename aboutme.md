@@ -15,7 +15,7 @@ work and school, I spend my free time on various side projects and slowly
 learning the guitar.
 
 ## Education
-I'm an undergraduate at Boise State University, double majoring in computer
+I'm a senior undergraduate at Boise State University, double majoring in computer
 science and mathematics. My expected graduation date is May 2022.
 
 Accomplishments at BSU:
@@ -25,9 +25,9 @@ lead by Dr. Catherine Olschanowsky, working on the CHiLL-I/E subteam
 [FIRST Robotics Team #5871, "The Chickadees"](https://www.boisestate.edu/coen/first-robotics-team-5871/).
 - co-founder and vice president of the [Queer STEM Club](https://engage.boisestate.edu/organization/qstemclub)
 
-Current classes (Spring 2021 semester):
-- *CS 332*: Ethical Hacking
-- *CS 333*: Network Security and Defense
-- *CS 361*: Intro to Theory of Computation
-- *CS 421*: Algorithms
-- *MATH 314*: Foundations of Analysis
+Current classes (Fall 2021 semester):
+- *CS 471*: Software Engineering
+- *CS 452*: Operating Systems
+- *CS 425*: Computer Networks
+- *MATH 403*: Linear Algebra
+- *MATH 405*: Abstract Algebra
