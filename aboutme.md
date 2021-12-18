@@ -25,9 +25,9 @@ lead by Dr. Catherine Olschanowsky, working on the CHiLL-I/E subteam
 [FIRST Robotics Team #5871, "The Chickadees"](https://www.boisestate.edu/coen/first-robotics-team-5871/).
 - co-founder and vice president of the [Queer STEM Club](https://engage.boisestate.edu/organization/qstemclub)
 
-Current classes (Fall 2021 semester):
-- *CS 471*: Software Engineering
-- *CS 452*: Operating Systems
-- *CS 425*: Computer Networks
-- *MATH 403*: Linear Algebra
-- *MATH 405*: Abstract Algebra
+Current classes (Spring 2022 semester):
+- *CS 455*: Distributed Systems
+- *CS 423*: Cyber-Physical Systems
+- *CS 475*: Software Security
+- *MATH 402*: Logic and Set Theory
+- *MATH 401*: Senior Thesis
