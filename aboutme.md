@@ -28,6 +28,5 @@ lead by Dr. Catherine Olschanowsky, working on the CHiLL-I/E subteam
 Current classes (Spring 2022 semester):
 - *CS 455*: Distributed Systems
 - *CS 423*: Cyber-Physical Systems
-- *CS 475*: Software Security
 - *MATH 402*: Logic and Set Theory
 - *MATH 401*: Senior Thesis
