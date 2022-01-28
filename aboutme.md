@@ -23,7 +23,7 @@ Accomplishments at BSU:
 lead by Dr. Catherine Olschanowsky, working on the CHiLL-I/E subteam
 - former programming mentor for BSU's
 [FIRST Robotics Team #5871, "The Chickadees"](https://www.boisestate.edu/coen/first-robotics-team-5871/).
-- co-founder and vice president of the [Queer STEM Club](https://engage.boisestate.edu/organization/qstemclub)
+- co-founder and former vice president of the [Queer STEM Club](https://engage.boisestate.edu/organization/qstemclub)
 
 Current classes (Spring 2022 semester):
 - *CS 455*: Distributed Systems
