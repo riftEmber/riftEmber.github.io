@@ -19,8 +19,8 @@ I'm a senior undergraduate at Boise State University, double majoring in compute
 science and mathematics. My expected graduation date is May 2022.
 
 Accomplishments at BSU:
-- member of the [ADaPT Research Lab](https://boisestate-adaptlab.github.io/),
-lead by Dr. Catherine Olschanowsky, working on the CHiLL-I/E subteam
+- member of the [ADaPT Lab](https://boisestate-adaptlab.github.io/),
+lead by Dr. Catherine Olschanowsky, working on optimizing compiler research
 - former programming mentor for BSU's
 [FIRST Robotics Team #5871, "The Chickadees"](https://www.boisestate.edu/coen/first-robotics-team-5871/).
 - co-founder and former vice president of the [Queer STEM Club](https://engage.boisestate.edu/organization/qstemclub)
