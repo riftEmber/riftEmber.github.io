@@ -28,5 +28,6 @@ lead by Dr. Catherine Olschanowsky, working on optimizing compiler research
 Current classes (Spring 2022 semester):
 - *CS 455*: Distributed Systems
 - *CS 423*: Cyber-Physical Systems
+- *CS 481*: Senior Design Project
 - *MATH 402*: Logic and Set Theory
 - *MATH 401*: Senior Thesis
