@@ -6,7 +6,7 @@ layout: default
 
 ### With [BSU ADaPT Lab](https://boisestate-adaptlab.github.io/):
 - **[spf-ie](https://github.com/BoiseState-AdaptLab/spf-ie)**: tool generating
-  the Sparse Polyhedral Framework representation of C/C++ source code for use
+  the Sparse Polyhedral Framework representation of C source code for use
   in optimizing transformations
 - **[IEGenLib](https://github.com/BoiseState-AdaptLab/IEGenLib)**: wrote Computation intermediate representation (IR)
 
