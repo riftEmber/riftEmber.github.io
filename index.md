@@ -5,7 +5,7 @@ layout: default
 
 
 ## Hi!
-I'm a computer science and mathematics undergraduate student, interested in
+I'm a recent computer science and mathematics graduate from BSU, interested in
 all kinds of software development. Welcome to my personal site! Below are some
 of my external links you might find interesting.
 
