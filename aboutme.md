@@ -10,8 +10,8 @@ age 11. It's around that time I started my first programming project (an
 attempt at a Newgrounds clone), and I haven't stopped coding and experimenting
 since. When I started at BSU in 2019, going into computer science was a
 no-brainer, and I added on mathematics before the end of my first semester.
-Three years later I graduated summa cum laude in May 2022, and am actively
-searching for opportunities to apply what I've learned.
+Three years later I graduated summa cum laude in May 2022, and am now working
+on the [Chapel](https://chapel-lang.org/) compiler at HPE.
 
 ## Education
 I'm a recent graduate from Boise State University, double majoring in computer
