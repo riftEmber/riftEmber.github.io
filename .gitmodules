@@ -1,3 +1,0 @@
-[submodule "llvm-doxygen"]
-	path = llvm-doxygen
-	url = https://github.com/riftEmber/llvm-doxygen
