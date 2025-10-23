@@ -4,8 +4,7 @@ layout: default
 ---
 
 
-## Hi!
-Welcome to my personal site!
+Welcome to my homepage!
 
 Below are some of my external links you might find interesting.
 - [GitHub page](https://github.com/riftEmber/)
